@@ -15,6 +15,19 @@ Hi-gMISnet Framework:
 Architecture of the Hi-gMISnet's generator:
 ![image](https://github.com/tushartalukder/HigMISnet/assets/65252460/16e794e4-34bf-4583-a448-58ae8bdd971e)
 
+Comparative performance on PhysioNet ICH, BUSI, and CVC-ClinicDB datasets:
+![image](https://github.com/tushartalukder/HigMISnet/assets/65252460/5f7bbea4-4bb1-47a1-8f22-2e4afb348d4b)
+![image](https://github.com/tushartalukder/HigMISnet/assets/65252460/aa406016-1d7a-48f3-ac97-0ba4f8a68e39)
+
+Comparative performance on MoNuSeg, GLAS, and ISIC-2018 datasets:
+![image](https://github.com/tushartalukder/HigMISnet/assets/65252460/8ad67528-3a14-4652-8d79-febc9ed67c41)
+![image](https://github.com/tushartalukder/HigMISnet/assets/65252460/85e7b2c9-1d2d-4ab1-87fb-ebdfc6f641da)
+
+Comparative performance on DRIVE, Montgomery and PROMISE12 datasets:
+![image](https://github.com/tushartalukder/HigMISnet/assets/65252460/d85ff5ed-4150-49a0-b500-4ea5e2eb0c5d)
+![image](https://github.com/tushartalukder/HigMISnet/assets/65252460/e1335d9c-4591-4aab-bd55-884c728c2c5c)
+
+
 Published paper's link: https://iopscience.iop.org/article/10.1088/1361-6560/ad3cb3
 
 ** Codes will be uploaded soon in this repository
