@@ -10,10 +10,10 @@ Main results: Experimental evaluations conducted on nine diverse publicly availa
 Significance: The proposed method provides robust and reliable segmentation performance on medical images, and thus it has the potential to be used in a clinical setting for the diagnosis of patients.
 
 Hi-gMISnet Framework:
-![image](https://github.com/tushartalukder/HigMISnet/assets/65252460/dbe8481a-e53a-403f-96da-92f7e3b81c41)
+![image](https://github.com/tushartalukder/HigMISnet/assets/65252460/08db1d5a-5874-4fd8-9181-525dddac7ee6)
 
 Architecture of the Hi-gMISnet's generator:
-![image](https://github.com/tushartalukder/HigMISnet/assets/65252460/16e794e4-34bf-4583-a448-58ae8bdd971e)
+![image](https://github.com/tushartalukder/HigMISnet/assets/65252460/5e5dac24-39b8-4c5b-990c-eb93471ace90)
 
 Comparative performance on PhysioNet ICH, BUSI, and CVC-ClinicDB datasets:
 ![image](https://github.com/tushartalukder/HigMISnet/assets/65252460/5f7bbea4-4bb1-47a1-8f22-2e4afb348d4b)
