@@ -9,11 +9,21 @@ Main results: Experimental evaluations conducted on nine diverse publicly availa
 
 Significance: The proposed method provides robust and reliable segmentation performance on medical images, and thus it has the potential to be used in a clinical setting for the diagnosis of patients.
 
+### Building blocks
+
 Hi-gMISnet Framework:
 ![image](https://github.com/tushartalukder/HigMISnet/assets/65252460/08db1d5a-5874-4fd8-9181-525dddac7ee6)
 
 Architecture of the Hi-gMISnet's generator:
 ![image](https://github.com/tushartalukder/HigMISnet/assets/65252460/5e5dac24-39b8-4c5b-990c-eb93471ace90)
+
+DWT based multilayer and multi-resolution feature fusion:
+![image](https://github.com/tushartalukder/HigMISnet/assets/65252460/330e36a0-39f2-49f0-b13e-26c116cf495b)
+
+Dual mode Attention Gate (DAG):
+![image](https://github.com/tushartalukder/HigMISnet/assets/65252460/3d761062-9f57-457c-9508-ab589658f778)
+
+### Results
 
 Comparative performance on PhysioNet ICH, BUSI, and CVC-ClinicDB datasets:
 ![image](https://github.com/tushartalukder/HigMISnet/assets/65252460/5f7bbea4-4bb1-47a1-8f22-2e4afb348d4b)
@@ -29,5 +39,13 @@ Comparative performance on DRIVE, Montgomery and PROMISE12 datasets:
 
 
 Published paper's link: https://iopscience.iop.org/article/10.1088/1361-6560/ad3cb3
+
+### Please cite as: 
+
+@article{showrav2024hi,
+  title={Hi-gMISnet: generalized medical image segmentation using DWT based multilayer fusion and dual mode attention into high resolution pGAN},
+  author={Showrav, Tushar Talukder and Hasan, Md Kamrul},
+  journal={Physics in Medicine and Biology}
+} 
 
 ** Codes will be uploaded soon in this repository
