@@ -1,4 +1,4 @@
-# HigMISnet
+# Hi-gMISnet
 ## Generalized medical image segmentation using DWT based multilayer fusion and dual mode attention into high resolution pGAN
 
 Objective: Automatic medical image segmentation is crucial for accurately isolating target tissue areas in the image from background tissues, facilitating precise diagnoses and procedures. While the proliferation of publicly available clinical datasets led to the development of deep learning-based medical image segmentation methods, a generalized, accurate, robust, and reliable approach across diverse imaging modalities remains elusive.
