@@ -8,6 +8,8 @@ Approach: This paper proposes a novel high-resolution parallel generative advers
 Main results: Experimental evaluations conducted on nine diverse publicly available medical image segmentation datasets, including PhysioNet ICH, BUSI, CVC-ClinicDB, MoNuSeg, GLAS, ISIC-2018, DRIVE, Montgomery, and PROMISE12, demonstrate the proposed method's superior performance. The proposed method achieves mean F1 scores of 79.53%, 88.68%, 94.19%, 82.50%, 93.25%, 90.40%, 81.65%, 98.48%, and 90.79%, respectively, on the above datasets, surpass state-of-the-art segmentation methods. Furthermore, our proposed method demonstrates robust multi-domain segmentation capabilities, exhibiting consistent and reliable performance. The assessment of the model's proficiency in accurately identifying small details indicates that the high-resolution generalized medical image segmentation network (Hi-gMISnet) is more precise in segmenting even when the target area is very small.
 
 Significance: The proposed method provides robust and reliable segmentation performance on medical images, and thus it has the potential to be used in a clinical setting for the diagnosis of patients.
+### Training notebook is available:
+https://www.kaggle.com/code/tushartalukder/hi-gmisnet-training
 
 ### Building blocks
 
