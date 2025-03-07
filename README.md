@@ -1,8 +1,9 @@
 # Hi-gMISnet
 ## Generalized medical image segmentation using DWT based multilayer fusion and dual mode attention into high resolution pGAN
 
-### Training notebook is available in Kaggle:
-https://www.kaggle.com/code/tushartalukder/hi-gmisnet-training
+### Training notebook is available in Kaggle: https://www.kaggle.com/code/tushartalukder/hi-gmisnet-training
+
+### To enable a direct comparison with Hi-gMISnet, we've included links to all nine datasets used in this article. They come with exact train, validation, and test splits. You can access them here: https://www.kaggle.com/datasets/tushartalukder/medical-image-segmentation-datasets-hi-gmisnet
 
 ### Abstract
 Objective: Automatic medical image segmentation is crucial for accurately isolating target tissue areas in the image from background tissues, facilitating precise diagnoses and procedures. While the proliferation of publicly available clinical datasets led to the development of deep learning-based medical image segmentation methods, a generalized, accurate, robust, and reliable approach across diverse imaging modalities remains elusive.
@@ -41,7 +42,7 @@ Comparative performance on DRIVE, Montgomery and PROMISE12 datasets:
 ![image](https://github.com/tushartalukder/HigMISnet/assets/65252460/d85ff5ed-4150-49a0-b500-4ea5e2eb0c5d)
 ![image](https://github.com/tushartalukder/HigMISnet/assets/65252460/e1335d9c-4591-4aab-bd55-884c728c2c5c)
 
-## To enable a direct comparison with Hi-gMISnet, we've included links to all nine datasets used in this article. They come with exact train, validation, and test splits. You can access them here: https://www.kaggle.com/datasets/tushartalukder/medical-image-segmentation-datasets-hi-gmisnet
+
 
 Published paper's link: https://iopscience.iop.org/article/10.1088/1361-6560/ad3cb3
 
